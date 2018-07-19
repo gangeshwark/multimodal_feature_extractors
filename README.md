@@ -14,9 +14,9 @@ This feature extractor contains
 
 ###### Setup
 
-Clone the repository:
+Clone this repository:
 
-`git clone `
+`git clone --recurse-submodules https://github.com/gangeshwark/multimodal_feature_extractors.git`
 
 cd into lib, clone [openface](https://github.com/cmusatyalab/openface)
 
