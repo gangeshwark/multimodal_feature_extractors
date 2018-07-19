@@ -1,0 +1,5 @@
+imageio==2.3.0
+tensorflow==1.8.0
+Keras==2.2.0
+numpy==1.14.2
+tqdm==4.19.9

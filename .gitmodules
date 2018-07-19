@@ -1,0 +1,6 @@
+[submodule "lib/openface"]
+	path = lib/openface
+	url = https://github.com/cmusatyalab/openface.git
+[submodule "lib/caffe-tensorflow"]
+	path = lib/caffe-tensorflow
+	url = https://github.com/ethereon/caffe-tensorflow.git
