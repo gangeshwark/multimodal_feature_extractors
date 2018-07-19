@@ -3,7 +3,7 @@
 This repo contains a collection of feature extractors for multimodal emotion recognition.
 
 Currently, these modalities are covered:
-1. Video
+1. [Video](#video)
 
 
 ---
