@@ -9,26 +9,22 @@ Currently, these modalities are covered:
 ---
 
 ### Video
-#### OpenFace + Face VGG + LSTM:
+#### OpenFace + Face VGG:
 This feature extractor contains
 
 ###### Setup
 
 Clone this repository:
 
-`git clone --recurse-submodules https://github.com/gangeshwark/multimodal_feature_extractors.git`
-
-cd into lib, clone [openface](https://github.com/cmusatyalab/openface)
-
-`git clone https://github.com/cmusatyalab/openface`
+`$ git clone --recurse-submodules https://github.com/gangeshwark/multimodal_feature_extractors.git`
 
 1. Install FFMPEG and OpenCV from source.
 2. Install the packages as specified in requirements.txt
-3.
+Then use:
+
+`from src.video.models import OpenFace_VGG` in your data processing code.
 
 ---
-
-
 
 
 ### TODO:
