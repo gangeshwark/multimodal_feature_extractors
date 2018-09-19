@@ -35,4 +35,5 @@ Module:
 
 
 ### Credits:
-1. Authors of [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow), [openface](https://github.com/cmusatyalab/openface)
+1. [Soujanya Poria](http://sporia.info/) for his invaluable inputs.
+2. Authors of [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow), [openface](https://github.com/cmusatyalab/openface)
