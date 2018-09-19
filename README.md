@@ -10,7 +10,7 @@ Currently, these modalities are covered:
 
 ### Video
 #### OpenFace + Face VGG:
-This feature extractor contains
+This feature extractor contains uses Openface to extract and align faces and uses Face VGG to extract facial features from every frame.
 
 ###### Setup
 
@@ -27,11 +27,11 @@ Then use:
 ---
 
 
-### TODO:
-1. Add a general video feature extractor.
-2. Add text feature extractor.
-3. Add audio feature extractor.
-
+### Tasks:
+- [x] Video feature extractor
+- [ ] Add text feature extractor.
+- [ ] Add audio feature extractor.
+- [ ] Code cleanup.
 
 
 ### Credits:
